@@ -21,7 +21,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /status
   logoUrl: https://avatars.githubusercontent.com/u/6310388?s=460&u=1356e91c86aef3682d21c93d16147132446b5c36&v=4
   name: Status
   introTitle: "**Status** about different Pages i manage."
