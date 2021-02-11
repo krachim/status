@@ -1,32 +1,31 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: krachim # Your GitHub username
+repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Koelner Institut
+    url: https://ilias.koelner-institut.de
+  - name: Holzauge Fotografie
+    url: https://holzauge-fotografie.de
+  - name: Vato Sikharulidze
+    url: https://www.vatosikharulidze.com
+  - name: Moritz Hagedorn
+    url: https://moritzhagedorn.com
+  - name: Malte van de Water
+    url: https://maltevandewater.de
+  - name: Intissar Belaid
+    url: https://intissarbelaid.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://avatars.githubusercontent.com/u/6310388?s=460&u=1356e91c86aef3682d21c93d16147132446b5c36&v=4
+  name: Status
+  introTitle: "**Status** about different Pages i manage."
+  introMessage: Website Status Overview
   navbar:
     - title: Status
       href: /
