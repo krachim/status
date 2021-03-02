@@ -94,9 +94,9 @@
     "url": "https://intissarbelaid.com",
     "icon": "https://favicons.githubusercontent.com/intissarbelaid.com",
     "slug": "intissar-belaid",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -106,6 +106,7 @@
     "timeMonth": 701,
     "timeYear": 701,
     "dailyMinutesDown": {
+      "2021-03-02": 0,
       "2021-02-16": 18
     }
   }
