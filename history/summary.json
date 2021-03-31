@@ -5,20 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/ilias.koelner-institut.de",
     "slug": "koelner-institut",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.93%",
-    "time": 1070,
-    "timeDay": 1387,
-    "timeWeek": 1065,
-    "timeMonth": 1094,
-    "timeYear": 1070,
-    "dailyMinutesDown": {
-      "2021-03-02": 27,
-      "2021-02-16": 18
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1068,
+    "timeDay": 982,
+    "timeWeek": 1053,
+    "timeMonth": 1091,
+    "timeYear": 1068,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Holzauge Fotografie",
@@ -26,20 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/holzauge-fotografie.de",
     "slug": "holzauge-fotografie",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.93%",
-    "time": 648,
-    "timeDay": 883,
-    "timeWeek": 640,
-    "timeMonth": 652,
-    "timeYear": 648,
-    "dailyMinutesDown": {
-      "2021-03-02": 27,
-      "2021-02-16": 18
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 647,
+    "timeDay": 591,
+    "timeWeek": 643,
+    "timeMonth": 650,
+    "timeYear": 647,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vato Sikharulidze",
@@ -47,20 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/www.vatosikharulidze.com",
     "slug": "vato-sikharulidze",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.93%",
-    "time": 604,
-    "timeDay": 854,
-    "timeWeek": 567,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 602,
+    "timeDay": 545,
+    "timeWeek": 575,
     "timeMonth": 552,
-    "timeYear": 604,
-    "dailyMinutesDown": {
-      "2021-03-02": 27,
-      "2021-02-16": 18
-    }
+    "timeYear": 602,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Moritz Hagedorn",
@@ -68,20 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/moritzhagedorn.com",
     "slug": "moritz-hagedorn",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.93%",
-    "time": 578,
-    "timeDay": 804,
-    "timeWeek": 576,
-    "timeMonth": 609,
-    "timeYear": 578,
-    "dailyMinutesDown": {
-      "2021-03-02": 27,
-      "2021-02-16": 18
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 576,
+    "timeDay": 502,
+    "timeWeek": 569,
+    "timeMonth": 606,
+    "timeYear": 576,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Malte van de Water",
@@ -89,20 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/maltevandewater.de",
     "slug": "malte-van-de-water",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.93%",
-    "time": 703,
-    "timeDay": 961,
-    "timeWeek": 701,
-    "timeMonth": 704,
-    "timeYear": 703,
-    "dailyMinutesDown": {
-      "2021-03-02": 27,
-      "2021-02-16": 18
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 702,
+    "timeDay": 687,
+    "timeWeek": 703,
+    "timeMonth": 703,
+    "timeYear": 702,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Intissar Belaid",
@@ -115,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
-    "time": 748,
-    "timeDay": 965,
-    "timeWeek": 749,
-    "timeMonth": 781,
-    "timeYear": 748,
+    "time": 747,
+    "timeDay": 690,
+    "timeWeek": 745,
+    "timeMonth": 778,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2021-03-02": 27,
       "2021-02-16": 18
