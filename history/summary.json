@@ -40,9 +40,9 @@
     "url": "https://www.vatosikharulidze.com",
     "icon": "https://favicons.githubusercontent.com/www.vatosikharulidze.com",
     "slug": "vato-sikharulidze",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 670,
     "timeMonth": 676,
     "timeYear": 636,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-07": 0
+    }
   },
   {
     "name": "Moritz Hagedorn",
