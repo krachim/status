@@ -41,7 +41,7 @@
     "icon": "https://favicons.githubusercontent.com/www.vatosikharulidze.com",
     "slug": "vato-sikharulidze",
     "status": "up",
-    "uptime": "73.75%",
+    "uptime": "73.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -162,9 +162,9 @@
     "url": "https://moritzhagedorn.com",
     "icon": "https://favicons.githubusercontent.com/moritzhagedorn.com",
     "slug": "moritz-hagedorn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -173,7 +173,9 @@
     "timeWeek": 834,
     "timeMonth": 621,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-10": 0
+    }
   },
   {
     "name": "Malte van de Water",
