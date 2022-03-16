@@ -23,6 +23,7 @@ status-website:
   name: Status
   introTitle: "**Status** about different Pages I manage."
   introMessage: Website Status Overview
+  theme: ocean
   navbar:
     - title: Status
       href: /
