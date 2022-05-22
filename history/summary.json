@@ -4,10 +4,10 @@
     "url": "https://ilias.koelner-institut.de",
     "icon": "https://favicons.githubusercontent.com/ilias.koelner-institut.de",
     "slug": "koelner-institut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1151,
@@ -15,7 +15,9 @@
     "timeWeek": 1175,
     "timeMonth": 1097,
     "timeYear": 1165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-22": 1
+    }
   },
   {
     "name": "Holzauge Fotografie",
@@ -41,7 +43,7 @@
     "icon": "https://favicons.githubusercontent.com/www.vatosikharulidze.com",
     "slug": "vato-sikharulidze",
     "status": "up",
-    "uptime": "77.87%",
+    "uptime": "77.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
