@@ -54,7 +54,7 @@
     "icon": "https://favicons.githubusercontent.com/www.vatosikharulidze.com",
     "slug": "vato-sikharulidze",
     "status": "up",
-    "uptime": "81.75%",
+    "uptime": "81.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -182,9 +182,9 @@
     "url": "https://moritzhagedorn.com",
     "icon": "https://favicons.githubusercontent.com/moritzhagedorn.com",
     "slug": "moritz-hagedorn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -194,6 +194,7 @@
     "timeMonth": 673,
     "timeYear": 622,
     "dailyMinutesDown": {
+      "2022-09-27": 0,
       "2022-06-16": 19,
       "2022-04-14": 16,
       "2022-03-10": 57
