@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1274,
-    "timeDay": 1412,
-    "timeWeek": 1124,
-    "timeMonth": 1210,
+    "time": 1273,
+    "timeDay": 1225,
+    "timeWeek": 1051,
+    "timeMonth": 1204,
     "timeYear": 1284,
     "dailyMinutesDown": {
       "2023-01-25": 20
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 717,
-    "timeDay": 722,
-    "timeWeek": 595,
-    "timeMonth": 607,
+    "timeDay": 710,
+    "timeWeek": 578,
+    "timeMonth": 608,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2023-01-25": 17
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vatosikharulidze.com.ico",
     "slug": "vato-sikharulidze",
     "status": "up",
-    "uptime": "88.63%",
+    "uptime": "88.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 641,
-    "timeDay": 802,
-    "timeWeek": 529,
-    "timeMonth": 543,
+    "timeDay": 598,
+    "timeWeek": 523,
+    "timeMonth": 544,
     "timeYear": 625,
     "dailyMinutesDown": {
       "2023-03-31": 18
@@ -70,9 +70,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 643,
-    "timeDay": 688,
-    "timeWeek": 409,
+    "time": 641,
+    "timeDay": 359,
+    "timeWeek": 377,
     "timeMonth": 412,
     "timeYear": 626,
     "dailyMinutesDown": {
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 851,
-    "timeDay": 947,
+    "timeDay": 1008,
     "timeWeek": 808,
-    "timeMonth": 786,
+    "timeMonth": 793,
     "timeYear": 853,
     "dailyMinutesDown": {
       "2023-03-31": 18,
@@ -113,10 +113,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 770,
-    "timeDay": 728,
-    "timeWeek": 579,
-    "timeMonth": 612,
-    "timeYear": 703,
+    "timeDay": 631,
+    "timeWeek": 567,
+    "timeMonth": 611,
+    "timeYear": 702,
     "dailyMinutesDown": {}
   }
 ]
