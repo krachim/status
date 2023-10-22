@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1282,
-    "timeDay": 1196,
-    "timeWeek": 1325,
-    "timeMonth": 1251,
+    "timeDay": 1457,
+    "timeWeek": 1328,
+    "timeMonth": 1255,
     "timeYear": 1273,
     "dailyMinutesDown": {
       "2023-01-25": 20
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 714,
-    "timeDay": 685,
-    "timeWeek": 681,
-    "timeMonth": 658,
+    "timeDay": 749,
+    "timeWeek": 691,
+    "timeMonth": 657,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2023-01-25": 17
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vatosikharulidze.com.ico",
     "slug": "vato-sikharulidze",
     "status": "up",
-    "uptime": "88.99%",
+    "uptime": "89.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 634,
-    "timeDay": 501,
-    "timeWeek": 579,
-    "timeMonth": 565,
+    "timeDay": 632,
+    "timeWeek": 589,
+    "timeMonth": 566,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2023-03-31": 18
@@ -70,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 623,
-    "timeDay": 363,
-    "timeWeek": 533,
-    "timeMonth": 460,
+    "time": 621,
+    "timeDay": 625,
+    "timeWeek": 565,
+    "timeMonth": 456,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2022-11-09": 29
@@ -91,8 +91,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 852,
-    "timeDay": 866,
-    "timeWeek": 909,
+    "timeDay": 910,
+    "timeWeek": 903,
     "timeMonth": 870,
     "timeYear": 850,
     "dailyMinutesDown": {
@@ -114,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 758,
-    "timeDay": 601,
-    "timeWeek": 645,
-    "timeMonth": 650,
+    "timeDay": 643,
+    "timeWeek": 649,
+    "timeMonth": 645,
     "timeYear": 689,
     "dailyMinutesDown": {}
   }
