@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1277,
-    "timeDay": 942,
-    "timeWeek": 1081,
-    "timeMonth": 1193,
-    "timeYear": 1267,
+    "time": 1278,
+    "timeDay": 1426,
+    "timeWeek": 1131,
+    "timeMonth": 1201,
+    "timeYear": 1268,
     "dailyMinutesDown": {
       "2023-01-25": 20
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/holzauge-fotografie.de.ico",
     "slug": "holzauge-fotografie",
     "status": "up",
-    "uptime": "98.96%",
+    "uptime": "98.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 491,
-    "timeWeek": 634,
-    "timeMonth": 613,
-    "timeYear": 690,
+    "time": 708,
+    "timeDay": 850,
+    "timeWeek": 648,
+    "timeMonth": 620,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2023-01-25": 17
     }
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vatosikharulidze.com.ico",
     "slug": "vato-sikharulidze",
     "status": "up",
-    "uptime": "89.18%",
+    "uptime": "89.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 627,
-    "timeDay": 398,
-    "timeWeek": 518,
-    "timeMonth": 522,
+    "time": 626,
+    "timeDay": 752,
+    "timeWeek": 557,
+    "timeMonth": 530,
     "timeYear": 605,
     "dailyMinutesDown": {
       "2023-03-31": 18
@@ -70,14 +70,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 618,
-    "timeDay": 284,
-    "timeWeek": 550,
-    "timeMonth": 447,
-    "timeYear": 543,
-    "dailyMinutesDown": {
-      "2022-11-09": 29
-    }
+    "time": 619,
+    "timeDay": 759,
+    "timeWeek": 562,
+    "timeMonth": 458,
+    "timeYear": 545,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Malte van de Water",
@@ -90,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 851,
-    "timeDay": 705,
-    "timeWeek": 851,
-    "timeMonth": 832,
-    "timeYear": 849,
+    "time": 852,
+    "timeDay": 1063,
+    "timeWeek": 895,
+    "timeMonth": 838,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2023-10-06": 34,
       "2023-09-22": 17,
@@ -113,10 +111,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 482,
-    "timeWeek": 594,
-    "timeMonth": 600,
+    "time": 734,
+    "timeDay": 737,
+    "timeWeek": 611,
+    "timeMonth": 603,
     "timeYear": 682,
     "dailyMinutesDown": {}
   }
