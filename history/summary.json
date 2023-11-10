@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1278,
-    "timeDay": 1426,
-    "timeWeek": 1131,
-    "timeMonth": 1201,
-    "timeYear": 1268,
+    "timeDay": 1404,
+    "timeWeek": 1202,
+    "timeMonth": 1212,
+    "timeYear": 1269,
     "dailyMinutesDown": {
       "2023-01-25": 20
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 708,
-    "timeDay": 850,
-    "timeWeek": 648,
-    "timeMonth": 620,
+    "time": 707,
+    "timeDay": 728,
+    "timeWeek": 677,
+    "timeMonth": 629,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2023-01-25": 17
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vatosikharulidze.com.ico",
     "slug": "vato-sikharulidze",
     "status": "up",
-    "uptime": "89.19%",
+    "uptime": "89.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 626,
-    "timeDay": 752,
-    "timeWeek": 557,
-    "timeMonth": 530,
-    "timeYear": 605,
+    "timeDay": 755,
+    "timeWeek": 599,
+    "timeMonth": 541,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2023-03-31": 18
     }
@@ -69,12 +69,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 619,
-    "timeDay": 759,
-    "timeWeek": 562,
-    "timeMonth": 458,
-    "timeYear": 545,
+    "uptimeYear": "100.00%",
+    "time": 618,
+    "timeDay": 828,
+    "timeWeek": 636,
+    "timeMonth": 477,
+    "timeYear": 521,
     "dailyMinutesDown": {}
   },
   {
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 852,
-    "timeDay": 1063,
-    "timeWeek": 895,
-    "timeMonth": 838,
+    "timeDay": 998,
+    "timeWeek": 912,
+    "timeMonth": 848,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2023-10-06": 34,
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 734,
-    "timeDay": 737,
-    "timeWeek": 611,
-    "timeMonth": 603,
+    "timeDay": 727,
+    "timeWeek": 633,
+    "timeMonth": 609,
     "timeYear": 682,
     "dailyMinutesDown": {}
   }
