@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1288,
-    "timeDay": 1533,
-    "timeWeek": 1998,
-    "timeMonth": 1348,
-    "timeYear": 1286,
+    "timeDay": 1283,
+    "timeWeek": 2029,
+    "timeMonth": 1343,
+    "timeYear": 1287,
     "dailyMinutesDown": {
       "2023-01-25": 20
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 705,
-    "timeDay": 819,
-    "timeWeek": 716,
-    "timeMonth": 640,
+    "timeDay": 780,
+    "timeWeek": 734,
+    "timeMonth": 641,
     "timeYear": 690,
     "dailyMinutesDown": {
       "2023-01-25": 17
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vatosikharulidze.com.ico",
     "slug": "vato-sikharulidze",
     "status": "up",
-    "uptime": "89.32%",
+    "uptime": "89.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 626,
-    "timeDay": 735,
-    "timeWeek": 590,
+    "timeDay": 636,
+    "timeWeek": 621,
     "timeMonth": 553,
-    "timeYear": 604,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2023-03-31": 18
     }
@@ -70,9 +70,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 604,
-    "timeWeek": 653,
+    "time": 616,
+    "timeDay": 638,
+    "timeWeek": 651,
     "timeMonth": 516,
     "timeYear": 514,
     "dailyMinutesDown": {}
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 854,
-    "timeDay": 920,
-    "timeWeek": 844,
-    "timeMonth": 837,
+    "timeDay": 950,
+    "timeWeek": 869,
+    "timeMonth": 838,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2023-10-06": 34,
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 730,
-    "timeDay": 669,
-    "timeWeek": 645,
-    "timeMonth": 612,
+    "timeDay": 677,
+    "timeWeek": 656,
+    "timeMonth": 613,
     "timeYear": 681,
     "dailyMinutesDown": {}
   }
