@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1267,
-    "timeDay": 918,
-    "timeWeek": 992,
-    "timeMonth": 1160,
-    "timeYear": 1272,
+    "timeDay": 1402,
+    "timeWeek": 1059,
+    "timeMonth": 1158,
+    "timeYear": 1273,
     "dailyMinutesDown": {
       "2023-01-25": 20
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 690,
-    "timeDay": 475,
-    "timeWeek": 549,
-    "timeMonth": 641,
+    "timeDay": 831,
+    "timeWeek": 597,
+    "timeMonth": 642,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2023-01-25": 17
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vatosikharulidze.com.ico",
     "slug": "vato-sikharulidze",
     "status": "up",
-    "uptime": "89.94%",
+    "uptime": "89.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 397,
-    "timeWeek": 472,
-    "timeMonth": 557,
+    "time": 615,
+    "timeDay": 809,
+    "timeWeek": 520,
+    "timeMonth": 559,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2023-03-31": 18
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 255,
-    "timeWeek": 321,
-    "timeMonth": 461,
-    "timeYear": 484,
+    "time": 591,
+    "timeDay": 630,
+    "timeWeek": 374,
+    "timeMonth": 460,
+    "timeYear": 483,
     "dailyMinutesDown": {}
   },
   {
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 858,
-    "timeDay": 624,
-    "timeWeek": 769,
-    "timeMonth": 839,
+    "timeDay": 936,
+    "timeWeek": 799,
+    "timeMonth": 833,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2023-10-06": 34,
@@ -112,10 +112,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 682,
-    "timeDay": 529,
-    "timeWeek": 533,
-    "timeMonth": 604,
-    "timeYear": 660,
+    "timeDay": 725,
+    "timeWeek": 562,
+    "timeMonth": 606,
+    "timeYear": 659,
     "dailyMinutesDown": {}
   }
 ]
