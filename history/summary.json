@@ -5,17 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilias.koelner-institut.de.ico",
     "slug": "koelner-institut",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "90.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 1236,
-    "timeDay": 1456,
-    "timeWeek": 1288,
-    "timeMonth": 1245,
+    "timeDay": 1238,
+    "timeWeek": 1202,
+    "timeMonth": 1248,
     "timeYear": 1198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-06": 34,
+      "2023-09-22": 17
+    }
   },
   {
     "name": "Holzauge Fotografie",
@@ -23,17 +26,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/holzauge-fotografie.de.ico",
     "slug": "holzauge-fotografie",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "90.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 616,
-    "timeDay": 788,
-    "timeWeek": 609,
+    "timeDay": 514,
+    "timeWeek": 567,
     "timeMonth": 609,
     "timeYear": 612,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-06": 34,
+      "2023-09-22": 17
+    }
   },
   {
     "name": "Vato Sikharulidze",
@@ -41,17 +47,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vatosikharulidze.com.ico",
     "slug": "vato-sikharulidze",
     "status": "up",
-    "uptime": "91.51%",
+    "uptime": "90.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 551,
-    "timeDay": 802,
-    "timeWeek": 588,
+    "timeDay": 436,
+    "timeWeek": 538,
     "timeMonth": 562,
     "timeYear": 546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-06": 34,
+      "2023-09-22": 17
+    }
   },
   {
     "name": "Moritz Hagedorn",
@@ -59,17 +68,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/moritzhagedorn.com.ico",
     "slug": "moritz-hagedorn",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "90.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 454,
-    "timeDay": 687,
-    "timeWeek": 490,
+    "timeDay": 329,
+    "timeWeek": 449,
     "timeMonth": 456,
-    "timeYear": 466,
-    "dailyMinutesDown": {}
+    "timeYear": 467,
+    "dailyMinutesDown": {
+      "2023-10-06": 34,
+      "2023-09-22": 17
+    }
   },
   {
     "name": "Malte van de Water",
@@ -77,14 +89,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/maltevandewater.de.ico",
     "slug": "malte-van-de-water",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "90.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 792,
-    "timeDay": 904,
-    "timeWeek": 791,
+    "time": 791,
+    "timeDay": 693,
+    "timeWeek": 757,
     "timeMonth": 757,
     "timeYear": 778,
     "dailyMinutesDown": {
@@ -98,16 +110,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/intissarbelaid.com.ico",
     "slug": "intissar-belaid",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "90.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 655,
-    "timeWeek": 578,
-    "timeMonth": 573,
+    "uptimeYear": "99.99%",
+    "time": 591,
+    "timeDay": 544,
+    "timeWeek": 549,
+    "timeMonth": 572,
     "timeYear": 567,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-06": 34,
+      "2023-09-22": 17
+    }
   }
 ]
