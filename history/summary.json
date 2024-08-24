@@ -4,19 +4,19 @@
     "url": "https://ilias.koelner-institut.de",
     "icon": "https://icons.duckduckgo.com/ip3/ilias.koelner-institut.de.ico",
     "slug": "koelner-institut",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.65%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 1268,
-    "timeDay": 6448,
-    "timeWeek": 3580,
-    "timeMonth": 1957,
-    "timeYear": 1266,
+    "time": 1276,
+    "timeDay": 6220,
+    "timeWeek": 3705,
+    "timeMonth": 2043,
+    "timeYear": 1276,
     "dailyMinutesDown": {
-      "2024-08-24": 47
+      "2024-08-24": 63
     }
   },
   {
