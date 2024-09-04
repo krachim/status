@@ -25,27 +25,29 @@
     "url": "https://holzauge-fotografie.de",
     "icon": "https://icons.duckduckgo.com/ip3/holzauge-fotografie.de.ico",
     "slug": "holzauge-fotografie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 613,
+    "time": 612,
     "timeDay": 554,
     "timeWeek": 705,
     "timeMonth": 586,
     "timeYear": 608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-04": 0
+    }
   },
   {
     "name": "Vato Sikharulidze",
     "url": "https://www.vatosikharulidze.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vatosikharulidze.com.ico",
     "slug": "vato-sikharulidze",
-    "status": "up",
+    "status": "down",
     "uptime": "91.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +56,9 @@
     "timeWeek": 601,
     "timeMonth": 519,
     "timeYear": 541,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-04": 0
+    }
   },
   {
     "name": "Moritz Hagedorn",
@@ -79,9 +83,9 @@
     "url": "https://maltevandewater.de",
     "icon": "https://icons.duckduckgo.com/ip3/maltevandewater.de.ico",
     "slug": "malte-van-de-water",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -91,6 +95,7 @@
     "timeMonth": 703,
     "timeYear": 771,
     "dailyMinutesDown": {
+      "2024-09-04": 0,
       "2023-10-06": 34,
       "2023-09-22": 17
     }
@@ -100,9 +105,9 @@
     "url": "https://intissarbelaid.com",
     "icon": "https://icons.duckduckgo.com/ip3/intissarbelaid.com.ico",
     "slug": "intissar-belaid",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,6 +116,8 @@
     "timeWeek": 569,
     "timeMonth": 523,
     "timeYear": 560,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-04": 0
+    }
   }
 ]
