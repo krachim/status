@@ -6,17 +6,16 @@
     "slug": "koelner-institut",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "99.92%",
-    "time": 1489,
-    "timeDay": 1631,
-    "timeWeek": 1291,
-    "timeMonth": 3401,
-    "timeYear": 1574,
+    "time": 1491,
+    "timeDay": 1645,
+    "timeWeek": 1382,
+    "timeMonth": 3407,
+    "timeYear": 1576,
     "dailyMinutesDown": {
-      "2024-09-23": 7,
       "2024-08-25": 309,
       "2024-08-24": 114
     }
@@ -33,10 +32,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 613,
-    "timeDay": 794,
-    "timeWeek": 646,
-    "timeMonth": 640,
-    "timeYear": 609,
+    "timeDay": 978,
+    "timeWeek": 717,
+    "timeMonth": 645,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
@@ -53,9 +52,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 547,
-    "timeDay": 617,
-    "timeWeek": 546,
-    "timeMonth": 561,
+    "timeDay": 754,
+    "timeWeek": 597,
+    "timeMonth": 562,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2024-09-04": 38
@@ -72,9 +71,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 457,
-    "timeDay": 637,
-    "timeWeek": 538,
+    "time": 458,
+    "timeDay": 685,
+    "timeWeek": 601,
     "timeMonth": 497,
     "timeYear": 470,
     "dailyMinutesDown": {}
@@ -91,10 +90,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 785,
-    "timeDay": 794,
-    "timeWeek": 702,
-    "timeMonth": 697,
-    "timeYear": 765,
+    "timeDay": 862,
+    "timeWeek": 749,
+    "timeMonth": 698,
+    "timeYear": 764,
     "dailyMinutesDown": {
       "2024-09-04": 38,
       "2023-10-06": 34
@@ -112,8 +111,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 584,
-    "timeDay": 675,
-    "timeWeek": 544,
+    "timeDay": 658,
+    "timeWeek": 578,
     "timeMonth": 564,
     "timeYear": 558,
     "dailyMinutesDown": {
