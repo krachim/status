@@ -8,13 +8,13 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.30%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1491,
-    "timeDay": 1137,
-    "timeWeek": 1343,
-    "timeMonth": 2876,
-    "timeYear": 1576,
+    "time": 1489,
+    "timeDay": 1039,
+    "timeWeek": 1379,
+    "timeMonth": 1317,
+    "timeYear": 1575,
     "dailyMinutesDown": {
       "2024-08-25": 309,
       "2024-08-24": 114
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/holzauge-fotografie.de.ico",
     "slug": "holzauge-fotografie",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 613,
-    "timeDay": 569,
-    "timeWeek": 684,
-    "timeMonth": 647,
-    "timeYear": 610,
+    "timeDay": 501,
+    "timeWeek": 672,
+    "timeMonth": 646,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 547,
-    "timeDay": 481,
-    "timeWeek": 564,
-    "timeMonth": 563,
-    "timeYear": 544,
+    "time": 546,
+    "timeDay": 431,
+    "timeWeek": 567,
+    "timeMonth": 562,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 458,
-    "timeDay": 629,
-    "timeWeek": 602,
-    "timeMonth": 509,
-    "timeYear": 471,
+    "timeDay": 514,
+    "timeWeek": 599,
+    "timeMonth": 515,
+    "timeYear": 470,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 784,
-    "timeDay": 636,
-    "timeWeek": 717,
-    "timeMonth": 699,
-    "timeYear": 764,
+    "time": 783,
+    "timeDay": 567,
+    "timeWeek": 708,
+    "timeMonth": 698,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2024-09-04": 38,
       "2023-10-06": 34
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 584,
-    "timeDay": 479,
-    "timeWeek": 551,
+    "time": 583,
+    "timeDay": 482,
+    "timeWeek": 553,
     "timeMonth": 565,
-    "timeYear": 558,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
