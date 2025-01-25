@@ -65,19 +65,19 @@
     "url": "https://moritzhagedorn.com",
     "icon": "https://icons.duckduckgo.com/ip3/moritzhagedorn.com.ico",
     "slug": "moritz-hagedorn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 468,
-    "timeDay": 497,
-    "timeWeek": 422,
-    "timeMonth": 466,
+    "timeDay": 462,
+    "timeWeek": 418,
+    "timeMonth": 464,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2025-01-25": 0
+      "2025-01-25": 11
     }
   },
   {
