@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1486,
-    "timeDay": 1553,
-    "timeWeek": 1300,
-    "timeMonth": 1246,
-    "timeYear": 1587,
+    "time": 1487,
+    "timeDay": 1835,
+    "timeWeek": 1353,
+    "timeMonth": 1273,
+    "timeYear": 1589,
     "dailyMinutesDown": {
       "2024-08-25": 309,
       "2024-08-24": 114
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 610,
-    "timeDay": 818,
-    "timeWeek": 634,
-    "timeMonth": 593,
-    "timeYear": 601,
+    "timeDay": 717,
+    "timeWeek": 661,
+    "timeMonth": 600,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 541,
-    "timeDay": 737,
-    "timeWeek": 551,
-    "timeMonth": 516,
+    "timeDay": 723,
+    "timeWeek": 595,
+    "timeMonth": 525,
     "timeYear": 527,
     "dailyMinutesDown": {
       "2024-09-04": 38
@@ -67,18 +67,16 @@
     "slug": "moritz-hagedorn",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 468,
-    "timeDay": 423,
-    "timeWeek": 410,
-    "timeMonth": 458,
-    "timeYear": 460,
-    "dailyMinutesDown": {
-      "2025-01-25": 8
-    }
+    "time": 469,
+    "timeDay": 426,
+    "timeWeek": 428,
+    "timeMonth": 466,
+    "timeYear": 461,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Malte van de Water",
@@ -91,10 +89,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 743,
-    "timeDay": 848,
-    "timeWeek": 683,
-    "timeMonth": 651,
+    "time": 742,
+    "timeDay": 843,
+    "timeWeek": 705,
+    "timeMonth": 660,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2024-09-04": 38
@@ -111,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 550,
-    "timeDay": 652,
-    "timeWeek": 510,
-    "timeMonth": 496,
-    "timeYear": 527,
+    "time": 551,
+    "timeDay": 667,
+    "timeWeek": 541,
+    "timeMonth": 504,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
