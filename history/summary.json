@@ -45,11 +45,11 @@
     "url": "https://www.vatosikharulidze.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vatosikharulidze.com.ico",
     "slug": "vato-sikharulidze",
-    "status": "up",
+    "status": "down",
     "uptime": "92.53%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 541,
     "timeDay": 614,
@@ -57,7 +57,7 @@
     "timeMonth": 527,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2025-01-29": 11,
+      "2025-01-29": 0,
       "2024-09-04": 38
     }
   },
