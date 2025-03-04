@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1489,
-    "timeDay": 1395,
-    "timeWeek": 1356,
-    "timeMonth": 1260,
-    "timeYear": 1597,
+    "time": 1490,
+    "timeDay": 1622,
+    "timeWeek": 1432,
+    "timeMonth": 1266,
+    "timeYear": 1598,
     "dailyMinutesDown": {
       "2024-08-25": 309,
       "2024-08-24": 114
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 606,
-    "timeDay": 714,
-    "timeWeek": 627,
-    "timeMonth": 603,
+    "time": 607,
+    "timeDay": 742,
+    "timeWeek": 662,
+    "timeMonth": 600,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2025-02-21": 26,
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 548,
-    "timeDay": 699,
-    "timeWeek": 581,
+    "timeDay": 709,
+    "timeWeek": 616,
     "timeMonth": 686,
-    "timeYear": 539,
+    "timeYear": 540,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 462,
-    "timeDay": 594,
-    "timeWeek": 461,
-    "timeMonth": 422,
-    "timeYear": 456,
+    "timeDay": 583,
+    "timeWeek": 482,
+    "timeMonth": 423,
+    "timeYear": 457,
     "dailyMinutesDown": {}
   },
   {
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 727,
-    "timeDay": 751,
-    "timeWeek": 706,
-    "timeMonth": 674,
-    "timeYear": 678,
+    "time": 728,
+    "timeDay": 1016,
+    "timeWeek": 761,
+    "timeMonth": 682,
+    "timeYear": 679,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
@@ -111,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 543,
-    "timeDay": 689,
-    "timeWeek": 540,
-    "timeMonth": 548,
+    "timeDay": 603,
+    "timeWeek": 555,
+    "timeMonth": 547,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2024-09-04": 38
