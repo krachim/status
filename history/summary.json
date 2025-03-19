@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 1491,
-    "timeDay": 1192,
-    "timeWeek": 1265,
-    "timeMonth": 1299,
+    "timeDay": 1618,
+    "timeWeek": 1328,
+    "timeMonth": 1320,
     "timeYear": 1603,
     "dailyMinutesDown": {
       "2024-08-25": 309,
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 608,
-    "timeDay": 647,
-    "timeWeek": 656,
-    "timeMonth": 623,
+    "timeDay": 819,
+    "timeWeek": 684,
+    "timeMonth": 637,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2025-02-21": 26,
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 550,
-    "timeDay": 450,
-    "timeWeek": 597,
-    "timeMonth": 582,
-    "timeYear": 544,
+    "timeDay": 787,
+    "timeWeek": 631,
+    "timeMonth": 597,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
@@ -68,15 +68,15 @@
     "slug": "moritz-hagedorn",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "90.72%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.67%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
     "time": 456,
-    "timeDay": 458,
-    "timeWeek": 438,
-    "timeMonth": 424,
-    "timeYear": 457,
+    "timeDay": 535,
+    "timeWeek": 451,
+    "timeMonth": 434,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2025-03-17": 133
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 725,
-    "timeDay": 652,
-    "timeWeek": 684,
-    "timeMonth": 696,
-    "timeYear": 681,
+    "time": 724,
+    "timeDay": 848,
+    "timeWeek": 717,
+    "timeMonth": 706,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
@@ -112,10 +112,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 543,
-    "timeDay": 477,
-    "timeWeek": 534,
-    "timeMonth": 539,
+    "time": 542,
+    "timeDay": 634,
+    "timeWeek": 553,
+    "timeMonth": 544,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2024-09-04": 38
