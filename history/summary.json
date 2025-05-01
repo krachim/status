@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilias.koelner-institut.de.ico",
     "slug": "koelner-institut",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.97%",
+    "uptimeDay": "90.06%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.89%",
     "time": 1489,
-    "timeDay": 1514,
-    "timeWeek": 1334,
-    "timeMonth": 1270,
-    "timeYear": 1613,
+    "timeDay": 0,
+    "timeWeek": 1385,
+    "timeMonth": 1281,
+    "timeYear": 1614,
     "dailyMinutesDown": {
-      "2025-04-30": 0,
+      "2025-05-01": 6,
+      "2025-04-30": 137,
       "2024-08-25": 309,
       "2024-08-24": 114
     }
@@ -33,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 608,
-    "timeDay": 841,
+    "timeDay": 517,
     "timeWeek": 679,
-    "timeMonth": 632,
-    "timeYear": 609,
+    "timeMonth": 633,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2025-02-21": 26,
       "2024-09-04": 38
@@ -54,10 +55,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 542,
-    "timeDay": 727,
-    "timeWeek": 604,
-    "timeMonth": 543,
-    "timeYear": 551,
+    "timeDay": 486,
+    "timeWeek": 612,
+    "timeMonth": 546,
+    "timeYear": 550,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
@@ -74,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 452,
-    "timeDay": 516,
+    "timeDay": 298,
     "timeWeek": 449,
-    "timeMonth": 411,
-    "timeYear": 458,
+    "timeMonth": 407,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2025-03-17": 133
     }
@@ -93,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 704,
-    "timeDay": 864,
-    "timeWeek": 767,
-    "timeMonth": 692,
-    "timeYear": 688,
+    "time": 703,
+    "timeDay": 668,
+    "timeWeek": 776,
+    "timeMonth": 693,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
@@ -113,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 536,
-    "timeDay": 637,
-    "timeWeek": 582,
-    "timeMonth": 542,
-    "timeYear": 531,
+    "time": 535,
+    "timeDay": 447,
+    "timeWeek": 578,
+    "timeMonth": 541,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
