@@ -14,7 +14,7 @@
     "timeDay": 1579,
     "timeWeek": 1399,
     "timeMonth": 1266,
-    "timeYear": 1634,
+    "timeYear": 1635,
     "dailyMinutesDown": {
       "2025-05-06": 958,
       "2025-05-05": 1440,
@@ -42,7 +42,7 @@
     "timeDay": 797,
     "timeWeek": 678,
     "timeMonth": 650,
-    "timeYear": 622,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2025-02-21": 26,
       "2024-09-04": 38
@@ -63,7 +63,7 @@
     "timeDay": 751,
     "timeWeek": 585,
     "timeMonth": 532,
-    "timeYear": 558,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
@@ -73,9 +73,9 @@
     "url": "https://moritzhagedorn.com",
     "icon": "https://icons.duckduckgo.com/ip3/moritzhagedorn.com.ico",
     "slug": "moritz-hagedorn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
@@ -85,6 +85,7 @@
     "timeMonth": 429,
     "timeYear": 447,
     "dailyMinutesDown": {
+      "2025-07-19": 0,
       "2025-07-16": 16,
       "2025-06-23": 30,
       "2025-06-10": 19,
@@ -126,7 +127,7 @@
     "timeDay": 770,
     "timeWeek": 636,
     "timeMonth": 623,
-    "timeYear": 554,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2024-09-04": 38
     }
