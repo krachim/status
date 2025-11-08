@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.42%",
-    "time": 1447,
-    "timeDay": 1110,
-    "timeWeek": 1350,
-    "timeMonth": 1275,
-    "timeYear": 1257,
+    "time": 1448,
+    "timeDay": 1394,
+    "timeWeek": 1409,
+    "timeMonth": 1285,
+    "timeYear": 1258,
     "dailyMinutesDown": {
       "2025-05-06": 958,
       "2025-05-05": 1440,
@@ -37,10 +37,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 623,
-    "timeDay": 557,
-    "timeWeek": 609,
-    "timeMonth": 637,
-    "timeYear": 631,
+    "timeDay": 816,
+    "timeWeek": 651,
+    "timeMonth": 645,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2025-10-16": 38,
       "2025-02-21": 26
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 553,
-    "timeDay": 391,
-    "timeWeek": 497,
-    "timeMonth": 553,
+    "time": 554,
+    "timeDay": 722,
+    "timeWeek": 541,
+    "timeMonth": 560,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2025-10-16": 38
@@ -78,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 457,
-    "timeDay": 456,
-    "timeWeek": 591,
-    "timeMonth": 501,
+    "timeDay": 633,
+    "timeWeek": 638,
+    "timeMonth": 506,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2025-07-31": 46,
@@ -112,10 +112,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 744,
-    "timeDay": 732,
-    "timeWeek": 790,
-    "timeMonth": 824,
-    "timeYear": 761,
+    "timeDay": 971,
+    "timeWeek": 825,
+    "timeMonth": 828,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2025-10-16": 37
     }
@@ -132,10 +132,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 568,
-    "timeDay": 492,
-    "timeWeek": 619,
-    "timeMonth": 615,
-    "timeYear": 578,
+    "timeDay": 655,
+    "timeWeek": 636,
+    "timeMonth": 618,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2025-10-16": 37
     }
