@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 1279,
-    "timeDay": 1296,
-    "timeWeek": 1444,
-    "timeMonth": 1568,
+    "timeDay": 1632,
+    "timeWeek": 1470,
+    "timeMonth": 1558,
     "timeYear": 1282,
     "dailyMinutesDown": {
       "2026-04-03": 749,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 635,
-    "timeDay": 517,
-    "timeWeek": 547,
-    "timeMonth": 594,
-    "timeYear": 632,
+    "time": 634,
+    "timeDay": 520,
+    "timeWeek": 544,
+    "timeMonth": 586,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2025-10-16": 38
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 554,
-    "timeDay": 401,
-    "timeWeek": 476,
-    "timeMonth": 521,
-    "timeYear": 550,
+    "time": 553,
+    "timeDay": 363,
+    "timeWeek": 446,
+    "timeMonth": 511,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2025-10-16": 38
     }
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 473,
-    "timeDay": 328,
-    "timeWeek": 402,
-    "timeMonth": 490,
+    "timeDay": 406,
+    "timeWeek": 365,
+    "timeMonth": 478,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2025-07-16": 16,
@@ -106,10 +106,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 806,
-    "timeDay": 897,
-    "timeWeek": 830,
-    "timeMonth": 840,
-    "timeYear": 821,
+    "timeDay": 772,
+    "timeWeek": 836,
+    "timeMonth": 834,
+    "timeYear": 820,
     "dailyMinutesDown": {
       "2025-10-16": 37
     }
@@ -125,10 +125,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 589,
-    "timeDay": 557,
-    "timeWeek": 510,
-    "timeMonth": 523,
+    "time": 588,
+    "timeDay": 448,
+    "timeWeek": 501,
+    "timeMonth": 519,
     "timeYear": 591,
     "dailyMinutesDown": {
       "2025-10-16": 37
