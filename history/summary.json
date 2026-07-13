@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 1279,
-    "timeDay": 1348,
-    "timeWeek": 1379,
-    "timeMonth": 1559,
-    "timeYear": 1283,
+    "timeDay": 2021,
+    "timeWeek": 1472,
+    "timeMonth": 1562,
+    "timeYear": 1285,
     "dailyMinutesDown": {
       "2026-04-03": 749,
       "2026-04-04": 1214
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 634,
-    "timeDay": 494,
-    "timeWeek": 522,
-    "timeMonth": 589,
-    "timeYear": 631,
+    "timeDay": 650,
+    "timeWeek": 543,
+    "timeMonth": 587,
+    "timeYear": 630,
     "dailyMinutesDown": {
       "2025-10-16": 38
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 553,
-    "timeDay": 463,
-    "timeWeek": 410,
-    "timeMonth": 516,
+    "timeDay": 693,
+    "timeWeek": 453,
+    "timeMonth": 520,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2025-10-16": 38
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 474,
-    "timeDay": 511,
-    "timeWeek": 357,
-    "timeMonth": 488,
-    "timeYear": 485,
+    "timeDay": 818,
+    "timeWeek": 423,
+    "timeMonth": 497,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2025-07-16": 16,
       "2025-07-20": 68,
@@ -100,16 +100,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maltevandewater.de.ico",
     "slug": "malte-van-de-water",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 807,
-    "timeDay": 886,
-    "timeWeek": 820,
-    "timeMonth": 846,
-    "timeYear": 820,
+    "time": 808,
+    "timeDay": 1086,
+    "timeWeek": 865,
+    "timeMonth": 853,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2025-10-16": 37
     }
@@ -126,9 +126,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 588,
-    "timeDay": 484,
-    "timeWeek": 478,
-    "timeMonth": 522,
+    "timeDay": 649,
+    "timeWeek": 503,
+    "timeMonth": 525,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2025-10-16": 37
