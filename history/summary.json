@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilias.koelner-institut.de.ico",
     "slug": "koelner-institut",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 1282,
-    "timeDay": 0,
-    "timeWeek": 1562,
-    "timeMonth": 1552,
-    "timeYear": 1287,
+    "time": 1281,
+    "timeDay": 1360,
+    "timeWeek": 1564,
+    "timeMonth": 1536,
+    "timeYear": 1286,
     "dailyMinutesDown": {
       "2026-04-03": 749,
       "2026-04-04": 1214
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 634,
-    "timeDay": 0,
-    "timeWeek": 573,
-    "timeMonth": 580,
-    "timeYear": 630,
+    "timeDay": 467,
+    "timeWeek": 564,
+    "timeMonth": 570,
+    "timeYear": 629,
     "dailyMinutesDown": {
       "2025-10-16": 38
     }
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 552,
-    "timeDay": 0,
-    "timeWeek": 541,
-    "timeMonth": 517,
-    "timeYear": 549,
+    "timeDay": 402,
+    "timeWeek": 542,
+    "timeMonth": 508,
+    "timeYear": 548,
     "dailyMinutesDown": {
       "2025-10-16": 38
     }
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 475,
-    "timeDay": 0,
-    "timeWeek": 507,
-    "timeMonth": 488,
-    "timeYear": 487,
+    "timeDay": 368,
+    "timeWeek": 512,
+    "timeMonth": 484,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2025-07-20": 68,
       "2025-07-23": 27,
@@ -105,10 +105,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 809,
-    "timeDay": 0,
-    "timeWeek": 931,
-    "timeMonth": 857,
-    "timeYear": 822,
+    "timeDay": 717,
+    "timeWeek": 923,
+    "timeMonth": 851,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2025-10-16": 37
     }
@@ -125,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 588,
-    "timeDay": 0,
+    "timeDay": 431,
     "timeWeek": 522,
-    "timeMonth": 523,
+    "timeMonth": 513,
     "timeYear": 589,
     "dailyMinutesDown": {
       "2025-10-16": 37
