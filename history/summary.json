@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 1281,
-    "timeDay": 1360,
-    "timeWeek": 1564,
-    "timeMonth": 1536,
-    "timeYear": 1286,
+    "timeDay": 1288,
+    "timeWeek": 1554,
+    "timeMonth": 1535,
+    "timeYear": 1285,
     "dailyMinutesDown": {
       "2026-04-03": 749,
       "2026-04-04": 1214
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 634,
-    "timeDay": 467,
-    "timeWeek": 564,
+    "time": 633,
+    "timeDay": 481,
+    "timeWeek": 562,
     "timeMonth": 570,
-    "timeYear": 629,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2025-10-16": 38
     }
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vatosikharulidze.com.ico",
     "slug": "vato-sikharulidze",
     "status": "up",
-    "uptime": "94.54%",
+    "uptime": "94.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 552,
-    "timeDay": 402,
-    "timeWeek": 542,
+    "time": 551,
+    "timeDay": 362,
+    "timeWeek": 525,
     "timeMonth": 508,
-    "timeYear": 548,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2025-10-16": 38
     }
@@ -72,8 +72,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 475,
-    "timeDay": 368,
-    "timeWeek": 512,
+    "timeDay": 416,
+    "timeWeek": 496,
     "timeMonth": 484,
     "timeYear": 486,
     "dailyMinutesDown": {
@@ -105,10 +105,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 809,
-    "timeDay": 717,
-    "timeWeek": 923,
-    "timeMonth": 851,
-    "timeYear": 821,
+    "timeDay": 671,
+    "timeWeek": 887,
+    "timeMonth": 850,
+    "timeYear": 820,
     "dailyMinutesDown": {
       "2025-10-16": 37
     }
@@ -125,10 +125,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 588,
-    "timeDay": 431,
-    "timeWeek": 522,
-    "timeMonth": 513,
-    "timeYear": 589,
+    "timeDay": 469,
+    "timeWeek": 520,
+    "timeMonth": 515,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2025-10-16": 37
     }
