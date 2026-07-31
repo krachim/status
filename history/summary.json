@@ -25,20 +25,20 @@
     "url": "https://holzauge-fotografie.de",
     "icon": "https://icons.duckduckgo.com/ip3/holzauge-fotografie.de.ico",
     "slug": "holzauge-fotografie",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.98%",
     "time": 632,
-    "timeDay": 550,
-    "timeWeek": 601,
-    "timeMonth": 580,
-    "timeYear": 628,
+    "timeDay": 535,
+    "timeWeek": 591,
+    "timeMonth": 578,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2025-10-16": 38,
-      "2026-07-31": 15
+      "2026-07-31": 72
     }
   },
   {
@@ -46,20 +46,20 @@
     "url": "https://www.vatosikharulidze.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vatosikharulidze.com.ico",
     "slug": "vato-sikharulidze",
-    "status": "down",
+    "status": "up",
     "uptime": "94.58%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.98%",
     "time": 550,
-    "timeDay": 412,
-    "timeWeek": 548,
-    "timeMonth": 516,
+    "timeDay": 431,
+    "timeWeek": 535,
+    "timeMonth": 514,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2025-10-16": 38,
-      "2026-07-31": 10
+      "2026-07-31": 68
     }
   },
   {
@@ -89,20 +89,20 @@
     "url": "https://maltevandewater.de",
     "icon": "https://icons.duckduckgo.com/ip3/maltevandewater.de.ico",
     "slug": "malte-van-de-water",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
     "time": 814,
-    "timeDay": 717,
-    "timeWeek": 882,
-    "timeMonth": 879,
+    "timeDay": 739,
+    "timeWeek": 866,
+    "timeMonth": 875,
     "timeYear": 823,
     "dailyMinutesDown": {
       "2025-10-16": 37,
-      "2026-07-31": 5
+      "2026-07-31": 63
     }
   },
   {
@@ -110,20 +110,20 @@
     "url": "https://intissarbelaid.com",
     "icon": "https://icons.duckduckgo.com/ip3/intissarbelaid.com.ico",
     "slug": "intissar-belaid",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.98%",
     "time": 587,
-    "timeDay": 420,
-    "timeWeek": 507,
-    "timeMonth": 516,
+    "timeDay": 426,
+    "timeWeek": 498,
+    "timeMonth": 514,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2025-10-16": 37,
-      "2026-07-31": 0
+      "2026-07-31": 58
     }
   }
 ]
