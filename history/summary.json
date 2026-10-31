@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 1360,
-    "timeDay": 1667,
-    "timeWeek": 1862,
-    "timeMonth": 1661,
-    "timeYear": 1402,
+    "timeDay": 1386,
+    "timeWeek": 1774,
+    "timeMonth": 1652,
+    "timeYear": 1403,
     "dailyMinutesDown": {
       "2026-04-03": 749,
       "2026-04-04": 1214
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 631,
-    "timeDay": 569,
-    "timeWeek": 678,
-    "timeMonth": 654,
+    "timeDay": 561,
+    "timeWeek": 658,
+    "timeMonth": 651,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2026-07-31": 72,
@@ -48,19 +48,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vatosikharulidze.com.ico",
     "slug": "vato-sikharulidze",
     "status": "up",
-    "uptime": "94.81%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "94.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 556,
-    "timeDay": 467,
-    "timeWeek": 567,
-    "timeMonth": 607,
+    "time": 555,
+    "timeDay": 419,
+    "timeWeek": 546,
+    "timeMonth": 600,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2026-07-31": 68,
-      "2026-10-30": 11
+      "2026-07-31": 68
     }
   },
   {
@@ -74,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 506,
-    "timeDay": 450,
-    "timeWeek": 572,
-    "timeMonth": 502,
+    "time": 505,
+    "timeDay": 168,
+    "timeWeek": 501,
+    "timeMonth": 492,
     "timeYear": 515,
     "dailyMinutesDown": {
       "2026-04-18": 30,
@@ -92,18 +91,17 @@
     "slug": "malte-van-de-water",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 843,
-    "timeDay": 867,
-    "timeWeek": 919,
-    "timeMonth": 907,
+    "timeDay": 781,
+    "timeWeek": 881,
+    "timeMonth": 900,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2026-07-31": 63,
-      "2026-10-30": 6
+      "2026-07-31": 63
     }
   },
   {
@@ -113,18 +111,17 @@
     "slug": "intissar-belaid",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 583,
-    "timeDay": 539,
-    "timeWeek": 586,
-    "timeMonth": 562,
-    "timeYear": 571,
+    "time": 582,
+    "timeDay": 468,
+    "timeWeek": 557,
+    "timeMonth": 558,
+    "timeYear": 570,
     "dailyMinutesDown": {
-      "2026-07-31": 58,
-      "2026-10-30": 1
+      "2026-07-31": 58
     }
   }
 ]
